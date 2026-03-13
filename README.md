@@ -7,4 +7,4 @@ Markup Language - The way that computers process and render our page.
 
 The tags are not present in the website since they're instructions on how to present our content.
 
-_blank on the <a> opens the link on a different page.
+_blank attribute on the <a> tag opens the link on a different page.
