@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+.card {
+    height: 600px;
+    width: 400px;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.card img {
+    height: 60%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card .content {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
