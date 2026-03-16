@@ -20,3 +20,11 @@ Press alt and multiple elements to duplicate your cursor and modify them simulta
 <br> allows us to break away from the normal flow of sentences, basically it halts the current line and starts a new one below.
 
 ctrl + spacebar shows the options in an attribute.
+
+Elements are divided into two: Block & Inline.
+
+<div> is a block element, meaning that it spans the entire width. Its default direction is vertical (One on top of the other). Others include <p>, <ul>, <ol>
+
+<img> is an inline element, meaning that it only takes the necessary amount of space. Its direction is horizontal (Side by side). Others include <input>
+
+To link a specific file within a folder, the file path should be ./foldername/filename
