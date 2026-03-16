@@ -7,4 +7,14 @@ Markup Language - The way that computers process and render our page.
 
 The tags are not present in the website since they're instructions on how to present our content.
 
-_blank attribute on the <a> tag opens the link on a different page.
+_blank attribute on the <a> tag opens the link on a different tab. This is to ensure that the viewer has an option to go back to your tab, there's no need to navigate back to your img by constantly pressing back.
+
+The <link> tag connects resources/documents within a folder eg. it links css to html files
+
+To embed a link within an <img> tag, put the img line within the <a> tag.
+
+Comments - ctrl + /
+
+Press alt and multiple elements to duplicate your cursor and modify them simultaneously.
+
+<br> allows us to break away from the normal flow of sentences, basically it halts the current line and starts a new one below.
