@@ -18,3 +18,5 @@ Comments - ctrl + /
 Press alt and multiple elements to duplicate your cursor and modify them simultaneously.
 
 <br> allows us to break away from the normal flow of sentences, basically it halts the current line and starts a new one below.
+
+ctrl + spacebar shows the options in an attribute.
